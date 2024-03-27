@@ -1,4 +1,6 @@
-# Vir-Drum
+# iDrum-Kit
+ Developed a simple drum set.
+ The user will be able to play the drums by clicking on the different drum pads.
 1. index.html — contains the HTML layout which defines the element structure that would be shown on the page.
 2. images folder — contains .jpg images used in our project.
 3. sounds folder — contains . wav files used in our project.
